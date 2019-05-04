@@ -1,0 +1,46 @@
+Whats on the System?
+
+#LOGIN via username and password
+
+#CREATE#
+-Groups
+-Users
+-Attributes:
+   *Supplier
+   *Brand
+   *Category
+   *Stores
+   *Unique Attributes
+-Products
+-Orders
+
+
+#UPDATE#
+-Groups
+-Users
+-Attributes:
+   *Supplier
+   *Brand
+   *Category
+   *Stores
+   *Unique Attributes
+-Products
+-Orders
+-Company Profile
+-Profile Settings
+
+
+#VIEW#
+-Groups
+-Users
+-Attributes:
+   *Supplier
+   *Brand
+   *Category
+   *Stores
+   *Unique Attributes
+-Products
+-Orders
+
+#GENERATE STATISTICS and PRINT#
+-Reports
