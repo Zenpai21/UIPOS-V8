@@ -1,1 +1,2 @@
 *extract bower_components
+*no modal_confirmation
