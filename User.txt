@@ -1,0 +1,7 @@
+Super Admin
+username: supadmin
+Password: passwordadmin
+
+Admin
+username: admin
+password: admintest
