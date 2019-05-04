@@ -1,0 +1,5 @@
+.content-wrapper {
+    min-height: 100%;
+    background-color:#ffffff;
+    z-index: 800;
+}
